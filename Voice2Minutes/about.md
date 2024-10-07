@@ -19,4 +19,4 @@
 
 ## 議事録サンプル
 
-- [sample.txt](./sample.txt)
+- [sample.md](./sample.md)
